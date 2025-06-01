@@ -6,8 +6,9 @@ https://codewithmosh.com
 
 ## About this Project 
 
-(tutorial)[https://youtu.be/8Xwq35cPwYg?si=JvhSusolr9cPf8IG]
-(testing-library)[https://testing-library.com/]
+[tutorial](https://youtu.be/8Xwq35cPwYg?si=JvhSusolr9cPf8IG)
+
+[testing-library](https://testing-library.com/)
 
 This is a React app built with the following technologies and libraries: 
 
